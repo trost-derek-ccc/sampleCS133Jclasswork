@@ -6,3 +6,8 @@ body {
     background-color: whitesmoke;
     width: 85%;
 }
+
+h1 {
+    color: royalblue;
+    font-size: 125%;
+}
